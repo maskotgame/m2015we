@@ -1,5 +1,5 @@
 # m2015we
-## Most 2015 Website Ever
+<h2>Most 2015 Website Ever</h2>
 m2015we is a funny website i made that mimick and pokes fun at how other websites looked like in 2015
 <br>
 please do not take it seriously
