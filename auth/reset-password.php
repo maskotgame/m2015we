@@ -54,12 +54,6 @@
                                 <input type="email" placeholder="Email" class="form-control" maxlenght="20">
                             </div>
                             <div class="text-center">
-                                <input type="password" placeholder="New Password" class="form-control" maxlenght="16">
-                            </div>
-                            <div class="text-center">
-                                <input type="password" placeholder="Confirm New Password" class="form-control" maxlenght="16">
-                            </div>
-                            <div class="text-center">
                                 <a onclick="document.location = '/let_me_explain.html'" class="btn btn-secondary mt-1 w-100">Send Password Reset Link</a>
                             </div>
                         </form>
