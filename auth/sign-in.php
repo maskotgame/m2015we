@@ -44,7 +44,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/components/navigation.php' ?>
         <div class="container">
             <div class="col-md-6 col-md-offset-3">
-                <div class="panel panel-success mt-5">
+                <div class="panel panel-success mt-5 mb-5">
                     <div class="panel-heading text-center fs-3">
                         Sign In
                     </div>
