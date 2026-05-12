@@ -59,6 +59,7 @@
                             <div class="text-center">
                                 <input type="password" placeholder="Confirm Password" class="form-control" maxlenght="16">
                             </div>
+                            <div class="g-recaptcha mt-1" data-sitekey="6LcYMuYsAAAAAMX0eBd_Mze1BMtbPIc96psLRv7M"></div>
                             <div class="text-center">
                                 <a onclick="document.location = '/let_me_explain.html'" class="btn btn-success mt-1 w-100">Sign Up</a>
                                 <p class="mt-1 mb-0">Already have an account? <a href="/auth/sign-in">Sign In!</a></p>
