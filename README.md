@@ -2,7 +2,7 @@
 <b>Most 2015 Website Ever</b>
 <br>
 <br>
-m2015we is a funny website i made that mimick and pokes fun at how other websites looked like in 2015
+m2015we is a funny website i made that mimicks and pokes fun at how other websites looked like in 2015
 <br>
 please do not take it seriously
 <br>
